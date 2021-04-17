@@ -1,2 +1,2 @@
-# SalyPath360
- Saliency and Scanpath Prediction Framework forOmnidirectional Images
+# SalyPath360 :  Saliency and Scanpath Prediction Framework forOmnidirectional Images
+
